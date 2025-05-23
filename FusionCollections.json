@@ -136,6 +136,23 @@
     "backgroundColor": "#000000"
   },
   {
+    "id": "jasonbourne",
+    "name": "Jason Bourne",
+    "category": "Collections",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://raw.githubusercontent.com/HairyKameltoe/Fusion-Media-Catalogs/refs/heads/main/Collection%20Thumbnails/Jason-Borne.jpg",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
     "id": "jurassic-world",
     "name": "Jurassic World",
     "category": "Collections",
@@ -321,6 +338,23 @@
     "textWeight": "Bold",  
     "textColor": "#FFFFFF",  
     "backgroundColor": "#000000"  
+  },
+  {
+    "id": "the-hobbit",
+    "name": "The Hobbit",
+    "category": "Collections",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://raw.githubusercontent.com/HairyKameltoe/Fusion-Media-Catalogs/refs/heads/main/Collection%20Thumbnails/The-Hobbit.jpg",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   },
   {  
     "id": "the-hunger-games",  
